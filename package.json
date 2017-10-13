@@ -1,0 +1,19 @@
+{
+  "name": "wazelink",
+  "version": "1.0.0",
+  "description": "Encke Technologies PhoneGap Waze Link",
+  "main": "www/WazeLink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encke/wazelink.git"
+  },
+  "author": "Encke Technologies",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/encke/wazelink/issues"
+  },
+  "homepage": "https://github.com/encke/wazelink#readme"
+}
